@@ -8,5 +8,5 @@
   "HostServer": "raw.githubusercontent.com",
   "PortServer": 443,
   "fileCMD": "/apateti/CommandJson/refs/heads/main/CmdEject.json",
-  "filePathCMD": "/apateti/updateFirmware/main/firmware.bin"
+  "filePathCMD": "/apateti/CommandJson/refs/heads/main/comannd.json"
 }
