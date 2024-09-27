@@ -7,6 +7,6 @@
   "CMDDate": 0
   "HostServer": "raw.githubusercontent.com",
   "PortServer": 443,
-  "fileCMD": "/apateti/updateFirmware/main/firmware.bin",
+  "fileCMD": "/apateti/CommandJson/refs/heads/main/CmdEject.json",
   "filePathCMD": "/apateti/updateFirmware/main/firmware.bin"
 }
