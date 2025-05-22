@@ -5,6 +5,7 @@
   "actualizacion": 0,
   "hardware": 1,
   "CMDDate": 0,
+  "withReset": 0,
   "HostServer": "raw.githubusercontent.com",
   "PortServer": 443,
   "fileCMD": "/apateti/CommandJson/refs/heads/main/CmdEject.json",
