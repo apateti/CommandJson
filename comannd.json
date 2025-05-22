@@ -1,1 +1,10 @@
-{"cmd":"StaInf","data":{"status":"NroRegMa"}}
+{
+  "cmd": "configMqttAEG",
+  "data": {
+    "addrBroker": "137.184.21.193",
+    "portBroker": 1883,
+    "topicRx": "/AEG_Fiscal/Integracion/Comando",
+    "topicTx": "/AEG_Fiscal/Integracion/Respuesta",
+    "topicDoc": "/AEG_Fiscal/Integracion/Documento"
+  }
+}
