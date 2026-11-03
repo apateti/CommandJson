@@ -1,10 +1,1 @@
-{
-  "cmd": "configMqttAEG",
-  "data": {
-    "addrBroker": "13.51.138.105",
-    "portBroker": 1883,
-    "topicRx": "Comando",
-    "topicTx": "Respuesta",
-    "topicDoc": "Documento"
-  }
-}
+{"cmd":"configMqttPriv","data":{"addrBroker":"174.138.58.161","portBroker":1883,"userBroker":"test_user","passwBroker":"SecurePassword*2026","topicRx":"Comando","topicTx":"Respuesta","topicDoc":"Documento"}}
